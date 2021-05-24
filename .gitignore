@@ -8,6 +8,9 @@ __pycache__/
 
 #File
 config.py
+#File
+VacationPy/config.py
+WeatherPy/config.py
 
 # Distribution / packaging
 .Python
